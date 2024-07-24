@@ -1,5 +1,5 @@
 
-<h3 align="center" style="font-size: 10px;">I am a Systems Analyst with over 15 years of experience specializing in .NET, C#, VB.NET, and SQL Server. I hold a degree in Systems Analysis and Development, and I am also a postgraduate in Database Management and Web Applications. Throughout my career, I have been dedicated to designing, developing, and implementing robust software solutions that meet the diverse needs of organizations. My expertise in managing databases and web applications, combined with my extensive technical skills, enables me to deliver high-quality results and drive efficiency in system operations. I am committed to continuous learning and staying updated with the latest industry trends to ensure optimal performance and innovation in my work.</h3>
+<h3 align="center" style="font-size: 10px;">I am a Systems Analyst with over 15 years of experience specializing in .NET, C#, VB.NET, and SQL Server. I hold a degree in Systems Analysis and Development, and I am also a postgraduate in Database Management and Web Applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trccunha&label=Profile%20views&color=0e75b6&style=flat" alt="Thiarles Cunha" /> </p>
 
