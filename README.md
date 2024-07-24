@@ -1,5 +1,5 @@
-""To infinity and beyond""
-<h3 align="center" style="font-size: 10px;">I am a Systems Analyst with over 15 years of experience specializing in .NET, C#, VB.NET, and SQL Server. I hold a degree in Systems Analysis and Development, and I am also a postgraduate in Database Management and Web Applications.</h3>
+<h3 align="center" style="font-size: 10px;">""To infinity and beyond"" <br/>
+I am a Systems Analyst with over 15 years of experience specializing in .NET, C#, VB.NET, and SQL Server. I hold a degree in Systems Analysis and Development, and I am also a postgraduate in Database Management and Web Applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trccunha&label=Profile%20views&color=0e75b6&style=flat" alt="Thiarles Cunha" /> </p>
 
